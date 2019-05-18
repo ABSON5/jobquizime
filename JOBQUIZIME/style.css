@@ -1,0 +1,39 @@
+p{
+  color: black;
+  background-color: orange;
+  margin: 1px;
+  border-bottom: : 1px grey  solid;
+
+
+
+
+}
+
+h1{
+   color: ;
+   padding: 50px;
+    height: 100px;
+   background-color: yellow;
+   background-image: url('../img/RANGE.jpg');
+   text-shadow: 1px 3px 0 #222;
+   }
+
+h2{
+   color: rgb(255,15,1 .5 );
+   background-color: #ffa949;
+   text-align: center;
+
+  }
+
+  h3{
+    color: grey;
+    margin: 50px;
+    margin-bottom: 25px;
+  }
+
+li{
+   color: green;
+   background-color:#ffa9499;
+
+
+}
