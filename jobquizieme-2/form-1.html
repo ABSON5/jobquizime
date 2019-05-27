@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<htm>
+   <head>
+      <TITLE>How PHP Forms Work</TITLE>
+
+       <link rel="stylesheet" href="page-2.css">
+   </head>
+
+<h2>Making PHP Forms Work</h2>
+<div id="form-1">
+  <form method="post" action="work.php">
+
+     <label for="email">Email :</label><br>
+        <input type="text" id="email" name="email"><br>
+
+            <label for="password">Password :</label><br>
+            <input type="text" id="password" name="password" required minlength="8"><br>
+
+            <label for="password">Re-enter Password :</label><br>
+            <input type="text" name="password" required minlength="8"><br>
+
+            <div class="button">
+                <button type="submit">Login</button>
+            </div>
+
+  </form>
+</div>

@@ -1,0 +1,126 @@
+/*for the image banner*/
+.banner {
+    width: 75%;
+    height: 100%;
+}
+
+body {
+    background: url('teach.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+p{
+  color: black;
+  background-color: orange;
+  margin: 1px;
+  border-bottom: : 1px grey  solid;
+  }
+
+/*start of navigation styles*/
+
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: lightsteelblue;
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+/*this removes bullets*/
+ul {
+    list-style-type: none;
+    
+} 
+
+/*for resizing of logo image*/
+.logo_size {
+    float: left;
+    width:7%;
+    height:7%;
+
+}
+
+/*end of navigation styles*/
+
+
+
+
+h1 {
+   color: ;
+   padding: 50px;
+    height: 90px;
+   background-color: orange;
+   background-image: url('RANGE.jpg');
+   text-shadow: 1px 3px 0 #222;
+   text-align: center;
+   font-size: 70px;
+
+   }
+
+h4 {
+   text-align: center;
+   color: #fff;
+}   
+
+
+
+h2{
+   color: rgb(255,15,1 .5 );
+   background-color: #ffa949;
+   text-align: center;
+
+  }
+
+  h3{
+    color: grey;
+    margin: 50px;
+    margin-bottom: 25px;
+  }
+
+li{
+   color: green;
+   background-color:#ffa9499;
+
+}
+
+/*styling of form*/
+.form {
+  float: right;
+  background:  hsla(900, 25%, 40%, 0.75 );
+  color: #fff;
+}
+
+input {
+    color: #fff;
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
